@@ -2,9 +2,9 @@
   "ads":"true",
   "update":[{
     "version":"2.8.2000",
-    "title":"Do you like this VPN app? Check the source code!",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn and follow the developer on GitHub github.com/gayanvoice",
-    "size":"https://git.io/JeY69"
+    "title":"M-VPN",
+    "description":"Update M-VPN to get new features and more Servers.,
+    "size":"10.5 MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Hanoi","country":"Viet Nam","image":"vietNam","ip":"103.226.249.60","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Toronto","country":"Canada","image":"canada","ip":"103.226.249.60","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Seongnam","country":"South Korea","image":"southkorea","ip":"218.145.181.197","active":"true","signal":"a"},
     {"id":2, "file":2, "city":"Blantyre","country":"United States","image":"unitedstates","ip":"139.180.147.96","active":"true","signal":"a"},
     {"id":3, "file":3, "city":"Venray","country":"Netherlands","image":"netherlands","ip":"217.63.11.203","active":"true","signal":"a"},
