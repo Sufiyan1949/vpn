@@ -19,7 +19,7 @@
     {"id":0, "file":0, "city":"Toronto","country":"Canada","image":"canada","ip":"103.226.249.60","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Seongnam","country":"South Korea","image":"southkorea","ip":"218.145.181.197","active":"true","signal":"a"},
     {"id":2, "file":2, "city":"Blantyre","country":"United States","image":"unitedstates","ip":"139.180.147.96","active":"true","signal":"a"},
-    {"id":3, "file":3, "city":"Venray","country":"Netherlands","image":"netherlands","ip":"217.63.11.203","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"159.65.21.181","active":"true","signal":"a"},
     {"id":4, "file":4, "city":"Ushiku","country":"Japan","image":"japan","ip":"219.100.37.172","active":"true","signal":"a"}    
   ]
 }
